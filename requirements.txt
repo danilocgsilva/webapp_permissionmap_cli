@@ -1,0 +1,1 @@
+-e git+https://github.com/danilocgsilva/webapp_permissionmap_api.git@master#egg=webapp_permission_map_api
